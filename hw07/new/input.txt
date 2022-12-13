@@ -1,0 +1,4 @@
+WordCount is the “Hello World” of Big Data processing systems. It computes the
+frequency of words in a text collection. The algorithm works in two steps: First, the
+texts are splits the text to individual words. Second, the words are grouped and
+counted.
